@@ -1,0 +1,24 @@
+{
+  "name": "group-29-url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohits8962/group-29-URL_shortner.git"
+  },
+  "author": "group 29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohits8962/group-29-URL_shortner/issues"
+  },
+  "homepage": "https://github.com/mohits8962/group-29-URL_shortner#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2",
+    "shortid": "^2.2.16"
+  }
+}
